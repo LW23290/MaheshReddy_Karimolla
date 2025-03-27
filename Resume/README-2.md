@@ -39,6 +39,7 @@ Methodologies: Waterfall, Agile/ Scrum, SDLC, JIRA
 ## Experiences
 ### Data Analyst | McKesson
 July 2024 - Present
+
 •	Developed and optimized ETL pipelines using SQL and Azure Data Factory, automating the transformation of sales data, and integrating data from multiple sources to provide real-time performance insights, reducing processing time by 40%. 
 
 •	Built predictive models using machine learning techniques in Python, predicting customer behavior patterns, and enabling personalized media strategies to optimize ad performance. 
